@@ -43,9 +43,7 @@ nav ul{
     padding: 0;
     overflow: hidden;
 }
-ul li{
-    /* color: white; */
-}
+
 nav ul a {
     display: block;
     color: white;
@@ -80,20 +78,18 @@ nav ul a {
     font-size: 20px;
 }
 footer{
-/* border: yellow solid 10px; */
-display: flex; 
-flex-direction: row-reverse;
-background: linear-gradient(to left, #000000, #434343);
+    display: flex; 
+    flex-direction: row-reverse;
+    background: linear-gradient(to left, #000000, #434343);
 }
 .logo1{
-    /* border: solid red 10px; */
+    
     display: flex;
     width: 125px;
     height: 100px;
     margin-right: 1%;
 }
 .footer1{
-    /* border: royalblue solid 10px; */
     width: 50%;
     margin-right: 20%;
 }
